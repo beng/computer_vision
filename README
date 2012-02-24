@@ -1,0 +1,2 @@
+edge detection using a sobel filter in matlab.
+very specific code that isnt abstracted to work on various, similar problems.
