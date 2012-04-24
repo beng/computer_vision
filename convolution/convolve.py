@@ -18,7 +18,7 @@ significantly inefficient.
 An additional way to do 2D convolution is to use separable
 matrices, which is faster than naive 2D convolution because 
 the naive approach requires M*N multiplications opposed to
-M+N multiplications, BUT since the kernel is so small there is no
+M+N multiplications, BUT since the kernel is so small and 1D there is no
 need to.
 """
 ###################################################################
