@@ -1,2 +1,1 @@
-edge detection using a sobel filter in matlab.
-very specific code that isnt abstracted to work on various, similar problems.
+Small computer vision projects mainly using matlab, but also in python
